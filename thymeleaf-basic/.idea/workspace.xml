@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e379477a-4d06-4ec2-b89c-0add06e7e490" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/thymeleaf/basic/BasicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/thymeleaf/basic/BasicController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/basic/variable.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/basic/variable.html" afterDir="false" />
-    </list>
+    <list default="true" id="e379477a-4d06-4ec2-b89c-0add06e7e490" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +105,7 @@
       <workItem from="1693829441059" duration="4751000" />
       <workItem from="1694088101413" duration="5418000" />
       <workItem from="1694095186867" duration="106000" />
-      <workItem from="1694095580198" duration="1338000" />
+      <workItem from="1694095580198" duration="1576000" />
     </task>
     <servers />
   </component>
